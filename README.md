@@ -69,7 +69,7 @@
 
 [Macoratti](http://www.macoratti.net/Default.aspx)
 
-<img height="90" src= />
+<img height="90" src=https://cdn.sharepointeurope.com/wp-content/uploads/sponsors/2016/05/c-sharpcorner-600x300px.png />
 
 [Sharpcorner](https://www.c-sharpcorner.com/)
 
