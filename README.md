@@ -1,4 +1,4 @@
-# Minhas Plataformas De Estudo :mortar_board:
+# Meu Dia-a-Dia De Estudo :mortar_board:
 
 > Neste repositório deixo registrado, meus acervos de plataforma tecnológica de estudo, que no meu dia-a-dia, tem muito haver com as minhas habilidades, e que procuro aperfeiçoar.
 
@@ -31,7 +31,7 @@
 - [Alura](https://www.alura.com.br/)
 - [Cod3r](https://www.cod3r.com.br/)
 - [DataScienceAcademy](https://www.datascienceacademy.com.br/)
-- [Digita Linnovation One](https://digitalinnovation.one/)
+- [DigitaL Innovation One](https://digitalinnovation.one/)
 - [Docs Microsoft](https://docs.microsoft.com/pt-pt/)
 - [Forum Freecodecamp](https://forum.freecodecamp.org/)
 - [Linkedin Learning](https://www.linkedin.com/learning/)
