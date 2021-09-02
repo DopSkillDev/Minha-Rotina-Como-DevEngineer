@@ -1,4 +1,4 @@
-# Minha Rotina Como Dev :mortar_board:
+# Minha Rotina Como DevEngineer :mortar_board:
 
 > Neste repositório deixo registrado, meus acervos de plataforma tecnológica de estudo, que no meu dia-a-dia, tem muito haver com as minhas habilidades, e que procuro aperfeiçoar.<br>
 
@@ -9,7 +9,7 @@
 - Caderno de Rascunho Pesoal
 - [Iníciando meu setup - Ubuntu](https://ubuntu.com/)
 - [Sublime](https://www.sublimetext.com/)
-- [OneNote](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png)
+- [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
 - [Notion](https://www.notion.so/)
 - [Reminders-Apple](https://support.apple.com/en-us/HT205890)
 - [Calendario-Google](https://www.google.com/calendar/)
