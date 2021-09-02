@@ -13,7 +13,6 @@
 - [Notion](https://www.notion.so/)
 - [Reminders-Apple](https://support.apple.com/en-us/HT205890)
 - [Calendario-Google](https://www.google.com/calendar/)
-É um serviço de agenda e calendário on-line oferecido gratuitamente pela empresa Google. Disponível em uma interface web, é possível adicionar, controlar eventos, compromissos, compartilhar a programação com outras pessoas, agregar à sua agenda diversas agendas públicas, entre outras funcionalidades. 
 
 >> ## Em segundo lugar, foco mas minhas habilidades específicas. 
 
