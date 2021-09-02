@@ -6,31 +6,46 @@
 
 >> Em primeiro lugar, começo meu roteiro de agendamento.
 
+
+<img height="90" src=https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png />
+
+![Iníciando meu setup - Ubuntu](https://ubuntu.com/)
+
+<img height="90" src= />
+![sublime]()
+
+<img height="90" src= />
+![]()
+
+<img height="90" src= />
+![]()
+
+<img height="90" src= />
+![]()
+
+<img height="90" src= />
+![]()
+
 <img height="90" src=https://beebom.com/wp-content/uploads/2020/10/New-Ggl-Calendar-icon-website.jpg />
 <p>Google Agenda é um serviço de agenda e calendário on-line oferecido gratuitamente pela empresa Google. Disponível em uma interface web, é possível adicionar, controlar eventos, compromissos, compartilhar a programação com outras pessoas, agregar à sua agenda diversas agendas públicas, entre outras funcionalidades. 
 
-![]()
-![]()
-![]()
-![]()
-![]()
-
 >> Em segundo lugar, foco mas minhas habilidades específicas. 
 
-![](https://balta.io/)
-![](https://www.luisdev.com.br/)
-![](http://www.macoratti.net/Default.aspx)
-![](https://csharp.net-tutorials.com/)
-![](https://www.learndapper.com/)
-![](https://www.c-sharpcorner.com/)
-![](https://desenvolvedor.io/)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
+![Balta](https://balta.io/)
+  
+![Desenvolvedor.io](https://desenvolvedor.io/)
+  
+![Docs.Microsoft](https://docs.microsoft.com/pt-pt/dotnet/csharp/)
+  
+![DotNet-Tutorials](https://csharp.net-tutorials.com/)
+  
+![LearnDapper](https://www.learndapper.com/)
+  
+![Luis Dev](https://www.luisdev.com.br/)
+  
+![Macoratti](http://www.macoratti.net/Default.aspx)
+  
+![Sharpcorner](https://www.c-sharpcorner.com/)
 
 >> Em terceiro lugar, busco agregar nas minhas especialidades.
 
