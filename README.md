@@ -1,6 +1,6 @@
 # Meu Dia-a-Dia De Dev :mortar_board:
 
-> Neste repositório deixo registrado, meus acervos de plataforma tecnológica de estudo, que no meu dia-a-dia, tem muito haver com as minhas habilidades, e que procuro aperfeiçoar.
+> Neste repositório deixo registrado, meus acervos de plataforma tecnológica de estudo, que no meu dia-a-dia, tem muito haver com as minhas habilidades, e que procuro aperfeiçoar.<br>
 
 :warning: A lista a baixo não tem um ordem de preferência, eu só menciono quais plataformas que eu acompanho no meu desenvolvimento profissional e pessoal.
 
