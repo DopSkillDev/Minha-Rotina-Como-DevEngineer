@@ -14,7 +14,7 @@
 - [Reminders-Apple](https://support.apple.com/en-us/HT205890)
 - [Calendario-Google](https://www.google.com/calendar/)
 
->> ## Em segundo lugar, foco mas minhas habilidades específicas. 
+>> ## Em segundo lugar, foco nas minhas habilidades específicas. 
 
 - [Balta](https://balta.io/)
 - [Desenvolvedor.io](https://desenvolvedor.io/)
